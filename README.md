@@ -1,78 +1,63 @@
-<<<<<<< HEAD
-# Welcome to your Lovable project
+# Portfolio Website
 
-## Project info
+My personal portfolio website showcasing my projects, technical skills, and professional journey as a Full Stack Developer.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Features
 
-## How can I edit this code?
+- **Modern Design**: Clean and responsive UI with smooth animations
+- **3D Graphics**: Interactive 3D scene using Three.js
+- **Project Showcase**: Highlighting my best work and achievements
+- **Skills Section**: Comprehensive overview of my technical expertise
+- **Journey Timeline**: Interactive timeline of my education and career
+- **Contact Form**: Easy way to get in touch
+- **Certifications**: Display of professional certifications and achievements
 
-There are several ways of editing your application.
+## 🛠️ Technologies Used
 
-**Use Lovable**
+- **Frontend Framework**: React 18 with TypeScript
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS
+- **UI Components**: shadcn/ui
+- **Animations**: Framer Motion
+- **3D Graphics**: Three.js with React Three Fiber
+- **Form Validation**: Zod
+- **Testing**: Vitest
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 📦 Installation
 
-Changes made via Lovable will be committed automatically to this repo.
+```bash
+# Clone the repository
+git clone https://github.com/Abdifatah4817/Portfoliow.git
 
-**Use your preferred IDE**
+# Navigate to the project directory
+cd Portfoliow
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+# Install dependencies
+npm install
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🔧 Available Scripts
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run test` - Run tests
+- `npm run lint` - Lint code
 
-**Use GitHub Codespaces**
+## 📱 Contact
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Email**: mursalabdifatah17@gmail.com
+- **WhatsApp**: +254740531856
+- **GitHub**: [@Abdifatah4817](https://github.com/Abdifatah4817)
+- **LinkedIn**: [Abdifatah Mursal](https://linkedin.com/in/abdifatah-mursal)
 
-## What technologies are used for this project?
+## 📄 License
 
-This project is built with:
+This project is open source and available under the MIT License.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-=======
-# Portfoliow
-My personal portfolio website showcasing my projects, technical skills, and professional journey
->>>>>>> 42e0740c8de499b131732c1584fccaaf7e345be3
+Built with ❤️ by Abdifatah Mursal
